@@ -32,7 +32,6 @@ FRSS.iml
 app/proguard-rules.pro
 gradlew
 gradle/*.*
-volley/
 *.iml
 *.swp
 *~
